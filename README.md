@@ -16,6 +16,10 @@ A clean light variant with inverted colors maintaining the same visual hierarchy
 
 ![Preview 2](https://raw.githubusercontent.com/xscriptordev/jetbrains/main/xscriptor-theme/preview/preview2.png)
 
+![Preview 3](https://raw.githubusercontent.com/xscriptordev/jetbrains/main/xscriptor-theme/preview/preview3.png)
+
+![Preview 4](https://raw.githubusercontent.com/xscriptordev/jetbrains/main/xscriptor-theme/preview/preview4.png)
+
 ## Color Palette
 
 ### Dark Theme
