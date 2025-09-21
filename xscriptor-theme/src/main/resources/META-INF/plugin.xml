@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<idea-plugin>
+  <id>com.xscriptor.theme</id>
+  <name>Xscriptor Theme</name>
+  <version>1.0.0</version>
+  <vendor email="x@xscriptor.com" url="https://github.com/xscriptorcode">Xscriptor</vendor>
+  
+  <!-- Icono del plugin -->
+  <icon>pluginIcon.svg</icon>
+
+  <description><![CDATA[
+  A modern dark theme for Android Studio/IntelliJ. Clean contrast, vivid accents, and a focused, minimal UI. Includes a bundled editor color scheme.
+]]></description>
+
+<change-notes><![CDATA[
+  1.0.0 — Initial release with full UI theme and editor scheme.
+]]></change-notes>
+
+
+  <!-- Compatibilidad con versiones de IntelliJ/Android Studio -->
+  <idea-version since-build="211" until-build="252.*"/>
+
+  <!-- Dependencias del plugin -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <!-- Extensiones del plugin -->
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Registro del tema de la UI -->
+    <themeProvider id="XscriptorTheme" path="/themes/xscriptor_theme.theme.json"/>
+    
+    <!-- Registro del tema de íconos -->
+    <iconTheme path="/icons/xscriptor-icons.theme.json"/>
+    
+    <!-- Registro del mapeo de íconos para New UI -->
+    <iconMapper mappingFile="/icons/XscriptorIconMappings.json"/>
+    
+    <!-- Registro del esquema de colores del editor -->
+    <bundledColorScheme path="/colors/Xscriptor Theme.xml"/>
+  </extensions>
+
+  <!-- Acciones del plugin -->
+  <actions>
+    <!-- Grupo de acciones para el tema -->
+    <group id="XscriptorTheme.Actions" text="Xscriptor Theme" popup="true">
+      <add-to-group group-id="ToolsMenu" anchor="last"/>
+    </group>
+  </actions>
+
+</idea-plugin>
