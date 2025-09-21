@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="./assets/icon.png" width="200" alt="Xscriptor Theme logo" /> </p>
 
-Essential settings and customizations to improve accessibility and personalization of JetBrains IDEs Code using the Xscriptor ecosystem (themes, snippets, UI mods).
+Essential settings and customizations to improve accessibility and personalization of JetBrains IDEs using the Xscriptor ecosystem (themes, snippets, UI mods).
 
 ## Structure
 
