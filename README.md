@@ -10,11 +10,19 @@ The original dark theme with deep blacks and vibrant accents for comfortable cod
 ### Light Theme
 A clean light variant with inverted colors maintaining the same visual hierarchy and contrast ratios as the dark theme.
 
-## Preview
+## Previews
 
-![Preview 1](https://raw.githubusercontent.com/xscriptordev/jetbrains/main/xscriptor-theme/preview/preview.png)
+![Preview](https://raw.githubusercontent.com/xscriptordev/jetbrains/main/xscriptor-theme/preview/preview.png)
 
 ![Preview 2](https://raw.githubusercontent.com/xscriptordev/jetbrains/main/xscriptor-theme/preview/preview2.png)
+
+![Preview 3](https://raw.githubusercontent.com/xscriptordev/jetbrains/main/xscriptor-theme/preview/preview3.png)
+
+![Preview 4](https://raw.githubusercontent.com/xscriptordev/jetbrains/main/xscriptor-theme/preview/preview4.png)
+
+![Preview 5](https://raw.githubusercontent.com/xscriptordev/jetbrains/main/xscriptor-theme/preview/preview5.png)
+
+![Preview 6](https://raw.githubusercontent.com/xscriptordev/jetbrains/main/xscriptor-theme/preview/preview6.png)
 
 ## Color Palette
 
@@ -62,7 +70,7 @@ A clean light variant with inverted colors maintaining the same visual hierarchy
 
 ## License
 
-MIT License
+[MIT License](./xscriptor-theme/LICENSE)
 
 ## Contributing
 
