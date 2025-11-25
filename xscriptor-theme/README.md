@@ -1,24 +1,24 @@
-# Xscriptor Jetbrains
+# Xscriptor Theme
 
-A minimal dual-theme pack (Dark + Light) for Android Studio and IntelliJ IDEA, designed with strong contrast, vibrant accents, and consistent visual hierarchy.
+A modern theme collection for Android Studio and IntelliJ IDEA featuring both dark and light variants with carefully crafted color palettes, vibrant accents, and optimal contrast for enhanced coding experience.
 
-Essential settings and customizations to improve accessibility and personalization of JetBrains IDEs using the Xscriptor ecosystem (themes, snippets, UI mods).
+## Available Themes
 
-## Structure
+### Dark Theme (Default)
+The original dark theme with deep blacks and vibrant accents for comfortable coding in low-light environments.
 
-This repository is organized into:
+### Light Theme
+A clean light variant with inverted colors maintaining the same visual hierarchy and contrast ratios as the dark theme.
 
-## Previews
+## Preview
 
-![Preview](https://raw.githubusercontent.com/xscriptordev/jetbrains/main/xscriptor-theme/preview/preview.png)
+![Preview 1](https://raw.githubusercontent.com/xscriptordev/jetbrains/main/xscriptor-theme/preview/preview.png)
+
+![Preview 2](https://raw.githubusercontent.com/xscriptordev/jetbrains/main/xscriptor-theme/preview/preview2.png)
 
 ![Preview 3](https://raw.githubusercontent.com/xscriptordev/jetbrains/main/xscriptor-theme/preview/preview3.png)
 
 ![Preview 4](https://raw.githubusercontent.com/xscriptordev/jetbrains/main/xscriptor-theme/preview/preview4.png)
-
-![Preview 5](https://raw.githubusercontent.com/xscriptordev/jetbrains/main/xscriptor-theme/preview/preview5.png)
-
-![Preview 6](https://raw.githubusercontent.com/xscriptordev/jetbrains/main/xscriptor-theme/preview/preview6.png)
 
 ## Color Palette
 
@@ -61,12 +61,19 @@ This repository is organized into:
 
 ## Compatibility
 
-- Android Studio 2021.1+
-- IntelliJ IDEA 2021.1+
+- IntelliJ IDEA
+- Android Studio
+- PyCharm
+- WebStorm
+- PhpStorm
+- CLion
+- RubyMine
+- Rider
+- GoLand
 
 ## License
 
-[MIT License](./xscriptor-theme/LICENSE)
+MIT License
 
 ## Contributing
 
