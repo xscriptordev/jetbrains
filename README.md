@@ -1,6 +1,6 @@
-# Xscriptor Theme
+# Xscriptor Jetbrains
 
-A modern theme collection for Android Studio and IntelliJ IDEA featuring both dark and light variants with carefully crafted color palettes, vibrant accents, and optimal contrast for enhanced coding experience.
+A minimal dual-theme pack (Dark + Light) for Android Studio and IntelliJ IDEA, designed with strong contrast, vibrant accents, and consistent visual hierarchy.
 
 ## Available Themes
 
